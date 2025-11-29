@@ -1,5 +1,5 @@
 # This Repository shows my ongoing learning for QA Automation in Selenium with Jave from Scratch to advance. Updating my learning skills and showcasing using Github. 
-# SeleniumJavaFramework
+**# SeleniumJavaFramework
 Selenium Automation Project
 Welcome to the Selenium Automation Demo Project! This project serves as hands-on demonstration of Selenium, an open-source automation testing framework widely used for web applications. Whether you're a beginner looking to explore the basics or an experienced tester aiming to enhance your Selenium skills, this project provides a practical guide to automation testing.
 Tech Stack
