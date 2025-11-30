@@ -1,0 +1,46 @@
+public class CoreJavaBrushUp3 {                //Main Java class to execute methods
+public static void main(String[] args) {       
+                                               // TODO Auto-generated method stub
+                                               //string is an object //String literal
+String s1 = "This is Java selenium Code";
+String s5 = "hello";
+                                               //string is an object//String new
+String s2 = new String("Welcome");
+String s3 = new String("Welcome");
+String s = "This is Java selenium Code";
+String[] splittedString = s.split("Java");      //method call
+System.out.println(splittedString[0]);
+System.out.println(splittedString[1]);
+System.out.println(splittedString[1].trim());
+for(int i =s.length()-1;i>=0;i--)               // String reverse logic
+{
+System.out.println(s.charAt(i));
+}
+}
+}
+
+
+//************************************Methods Code ***********************
+public class MethodsDemo {                       //New class created
+public static void main(String[] args) {
+
+                                                 // TODO Auto-generated method stub
+
+MethodsDemo d = new MethodsDemo();
+String name = d.getData();                       //object created
+System.out.println(name);
+MethodsDemo2 d1 = new MethodsDemo2();              //object created
+d1.getUserData();                               //method call using object
+getData2();
+}
+public String getData()
+{
+System.out.println ("hello world");
+return "Java Selenium";
+}
+public static String getData2()
+{
+System.out.println ("hello world");
+return "Java Selenium";
+}
+}
